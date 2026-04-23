@@ -93,7 +93,7 @@ It helps in understanding customer behavior, restaurant performance, and deliver
 ---
 
 ### ✔ Total Order Amount
-![Total Amount](https://github.com/RohithMacharla11/Food_delivery_Sql_Project/blob/main/Images/total_amount.png)
+![Total Amount](https://github.com/RohithMacharla11/Food_delivery_Sql_Project/blob/main/Images/customerId_Orders.png)
 
 ---
 
@@ -103,7 +103,7 @@ This query combines multiple tables to show:
 - Restaurant Name  
 - Order Amount  
 
-![Join Output](https://github.com/RohithMacharla11/Food_delivery_Sql_Project/blob/main/Images/customerId_Orders.png)
+![Join Output](https://github.com/RohithMacharla11/Food_delivery_Sql_Project/blob/main/Images/total_amount.png)
 
 ---
 
